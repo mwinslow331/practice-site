@@ -1,0 +1,15 @@
+.top-bar-section {
+    overflow: hidden;
+}
+.center-topbar {
+    display: table;
+    width: 100%;
+}
+.center-topbar .full-width {
+    display: table-row;
+}
+.center-topbar .full-width li {
+    display: table-cell;
+    float: none;
+    text-align: center;
+}

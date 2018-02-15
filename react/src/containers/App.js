@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { HashLink } from 'react-router-hash-scroll';
 
 class App extends Component {
   constructor(props) {
